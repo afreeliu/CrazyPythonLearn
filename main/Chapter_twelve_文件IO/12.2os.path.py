@@ -42,19 +42,3 @@ if __name__ == '__main__':
     print(os.path.samefile('12.2os.path.py', './12.2os.path.py'))
 
 
-    # a = 'abcdefgA'
-    # b = 'gAAAAggbBCDDE'
-    # print(len(set(a)))
-    # print(len(set(b)))
-    #
-    # bb = set(b)
-    # aa = set(a)
-    # print()
-
-    s = 'abcdefg'
-    s = s.replace('a', '[a]')
-    print(s.replace('a', '[a]'))
-    # aa = list(s)
-    # print(aa)
-    # print(aa.pop())
-
