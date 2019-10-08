@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d755eb7-ef1e-402d-9ae7-16fa6f8a1279" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.3fnmatch_处理文件名匹配.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.4打开文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5读取文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/testDir/a_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/testDir/atest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/testDir/b_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/testfiledecoding.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/leetcode/292.Nim游戏.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/leetcode/557.反转字符串中的单词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5.3读取多个输入流.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5.4文件迭代器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5.5管道输入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5.6使用with语句.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5.7使用linecache随机读取指定行.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.6.1写文件_文件指针.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.6.2输出内容.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.7os模块的文件和目录函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12_6输出内容.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12_6输出内容为bytes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/UmPlatsFormGameManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/UmPlatsFormGameManager.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/ad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/e-mail_Content" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.2os.path.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.2os.path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5读取文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5读取文件.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +43,15 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
       <recent name="$PROJECT_DIR$/main" />
@@ -60,8 +69,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.557.反转字符串中的单词">
-    <configuration name="12.1pathlib模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12.6.2输出内容">
+    <configuration name="12.5.5管道输入" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CrazyPythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +83,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.1pathlib模块.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5.5管道输入.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12.2os.path" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12.5.6使用with语句" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CrazyPythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +105,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.2os.path.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5.6使用with语句.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12.3fnmatch_处理文件名匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12.5.7使用linecache随机读取指定行" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CrazyPythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +127,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.3fnmatch_处理文件名匹配.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.5.7使用linecache随机读取指定行.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12.4打开文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12.6.1写文件_文件指针" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CrazyPythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +149,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.4打开文件.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.6.1写文件_文件指针.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="557.反转字符串中的单词" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12.6.2输出内容" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CrazyPythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,12 +166,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/leetcode/557.反转字符串中的单词.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Chapter_twelve_文件IO/12.6.2输出内容.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.557.反转字符串中的单词" />
-        <item itemvalue="Python.12.4打开文件" />
-        <item itemvalue="Python.12.3fnmatch_处理文件名匹配" />
-        <item itemvalue="Python.12.2os.path" />
-        <item itemvalue="Python.12.1pathlib模块" />
+        <item itemvalue="Python.12.6.2输出内容" />
+        <item itemvalue="Python.12.6.1写文件_文件指针" />
+        <item itemvalue="Python.12.5.7使用linecache随机读取指定行" />
+        <item itemvalue="Python.12.5.6使用with语句" />
+        <item itemvalue="Python.12.5.5管道输入" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +206,7 @@
       <workItem from="1569476876609" duration="8201000" />
       <workItem from="1569595683250" duration="5733000" />
       <workItem from="1569716324383" duration="9823000" />
+      <workItem from="1570495092369" duration="11392000" />
     </task>
     <servers />
   </component>
@@ -216,18 +226,29 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CrazyPythonLearn$7__.coverage" NAME="7. 整数反转 Coverage Results" MODIFIED="1569487479974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/leetcode" />
-    <SUITE FILE_PATH="coverage/CrazyPythonLearn$3_learn_random_module.coverage" NAME="3.learn_random_module Coverage Results" MODIFIED="1569161040235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
-    <SUITE FILE_PATH="coverage/CrazyPythonLearn$2_learn_os_module.coverage" NAME="2.learn_os_module Coverage Results" MODIFIED="1569159647413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_4.coverage" NAME="12.4打开文件 Coverage Results" MODIFIED="1569719263841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
     <SUITE FILE_PATH="coverage/CrazyPythonLearn$4_learn_time_module.coverage" NAME="4.learn_time_module Coverage Results" MODIFIED="1569165175791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/CrazyPythonLearn$9_2_learn_functools_module.coverage" NAME="9.2.learn_functools_module Coverage Results" MODIFIED="1569460700301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
-    <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_1pathlib.coverage" NAME="12.1pathlib模块 Coverage Results" MODIFIED="1569649907133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_5_7linecache.coverage" NAME="12.5.7使用linecache随机读取指定行 Coverage Results" MODIFIED="1570506425864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_5_5.coverage" NAME="12.5.5管道输入 Coverage Results" MODIFIED="1570500652894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
     <SUITE FILE_PATH="coverage/CrazyPythonLearn$557_.coverage" NAME="557.反转字符串中的单词 Coverage Results" MODIFIED="1569752361098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/leetcode" />
-    <SUITE FILE_PATH="coverage/CrazyPythonLearn$9_learn_itertools_module.coverage" NAME="9.learn_itertools_module Coverage Results" MODIFIED="1569398899690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_5.coverage" NAME="12.5读取文件 Coverage Results" MODIFIED="1570495605596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
     <SUITE FILE_PATH="coverage/CrazyPythonLearn$1_learn_sys_module.coverage" NAME="1.learn_sys_module Coverage Results" MODIFIED="1569154866299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_2os_path.coverage" NAME="12.2os.path Coverage Results" MODIFIED="1569683880860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_6_1_.coverage" NAME="12.6.1写文件_文件指针 Coverage Results" MODIFIED="1570517936007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$3_learn_random_module.coverage" NAME="3.learn_random_module Coverage Results" MODIFIED="1569161040235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$2_learn_os_module.coverage" NAME="2.learn_os_module Coverage Results" MODIFIED="1569159647413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_5_4.coverage" NAME="12.5.4文件迭代器 Coverage Results" MODIFIED="1570499626637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_6_2.coverage" NAME="12.6.2输出内容 Coverage Results" MODIFIED="1570520354595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_1pathlib.coverage" NAME="12.1pathlib模块 Coverage Results" MODIFIED="1569649907133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$9_learn_itertools_module.coverage" NAME="9.learn_itertools_module Coverage Results" MODIFIED="1569398899690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_5_3.coverage" NAME="12.5.3读取多个输入流 Coverage Results" MODIFIED="1570497904050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
+    <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_5_6with.coverage" NAME="12.5.6使用with语句 Coverage Results" MODIFIED="1570504138404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
     <SUITE FILE_PATH="coverage/CrazyPythonLearn$12_3fnmatch_.coverage" NAME="12.3fnmatch_处理文件名匹配 Coverage Results" MODIFIED="1569717943374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main/Chapter_twelve_文件IO" />
   </component>
 </project>

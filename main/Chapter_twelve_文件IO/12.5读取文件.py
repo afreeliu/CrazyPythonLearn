@@ -32,6 +32,21 @@ if __name__ == '__main__':
     '''
     # readline([n]):读取一行内容。如果指定了参数n，则只读取此行内的n个字符。
     # readlines(): 读取文件内所有行。
+    f_readline = open('testfiledecoding.rtf', 'r', True, 'utf-8')
+    while True:
+        # 每次读取一行
+        line = f_readline.readline()
+        # 如果没有读取到内容，就退出循环
+        if not line: break
+        # 输出内容
+        print(line, end=' ')
+    f_readline.close()
+    print('---------------------------------')
+    f_readlines = open('testfiledecoding.rtf', 'r', True, 'utf-8')
+    # 使用readlines()读取所有行，返回所有组成的列表
+    for l in f_readlines.readlines():
+        print(l, end=' ')
+    f_readlines.close()
 
 
 
