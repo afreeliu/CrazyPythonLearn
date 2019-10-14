@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d755eb7-ef1e-402d-9ae7-16fa6f8a1279" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/14.2.1-2两种方式进行线程的创建和启动.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/14.3线程的生命周期.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/14.4控制线程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/Chapter_twelve_文件IO/14.2线程的创建和启动.py" beforeDir="false" />
-    </list>
+    <list default="true" id="1d755eb7-ef1e-402d-9ae7-16fa6f8a1279" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +214,7 @@
       <workItem from="1570581274528" duration="3744000" />
       <workItem from="1570666985952" duration="13395000" />
       <workItem from="1570753638665" duration="5835000" />
-      <workItem from="1570839429814" duration="10881000" />
+      <workItem from="1570839429814" duration="10906000" />
     </task>
     <servers />
   </component>
